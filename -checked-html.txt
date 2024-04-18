@@ -1,0 +1,9 @@
+berita/index.html
+cdn-cgi/l/email-protection/index.html
+gallery/index.html
+index.html
+kontak-kami/index.html
+services/index.html
+tentang-kami/index.html
+wp-content/uploads/astra-sites/index.html
+wp-content/uploads/wpforms/cache/index.html
